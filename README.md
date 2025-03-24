@@ -39,7 +39,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/ai-virtual-tryon.git
+git clone https://github.com/outfitsuggester/Personal-Outfit-Suggester.git
 cd ai-virtual-tryon
 ```
 
